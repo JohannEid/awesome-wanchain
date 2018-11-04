@@ -62,7 +62,7 @@ Below is a collection of resources for anyone interested in learning more about 
   
   - <a href="http://mywanwallet.com/">MyWanWallet</a> - Open source web wallet with Wan and WRC20 support
   
-**Block Explorers**
+**Explorers**
 -- 
 
 - <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Wanchain block explorer</a> - The official Wanchain explorer
