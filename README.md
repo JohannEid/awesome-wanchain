@@ -1,4 +1,4 @@
-**Overview of Wanchain**
+**Overview Of Wanchain**
 ==
 
 <a href="https://wanchain.org">Wanchain</a> is a public blockchain working on solving cross-chain interoperability. 
@@ -17,3 +17,14 @@ We already proved that our approach to solving the cross-chain transfer of asset
 
 Below is a collection of resources for anyone interested in learning more about Wanchain and the mission we are undertaking. 
 
+---
+
+**Official Links**
+--
+
++ <a href="https://wanchain.org">Main website</a>
++ <a href="https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf">Whitepaper</a>
++ <a href="https://wanchain.org/files/Wanchain-Yellowpaper-EN-version.pdf">Yellow paper</a>
++ <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Commercial paper</a>
++ <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Wallet download page</a>
++ <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Explorer</a>
