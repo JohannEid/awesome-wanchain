@@ -77,6 +77,8 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Ledger Wallet For Wan](https://wanchain.org/files/Wanchain_Ledger_Wallet_Overview.pdf) - Instruction manual to setup Wan on Ledger wallet
 - [Wanwallet 2.0 Cross chain transactions](https://github.com/wanchain/go-wanchain/wiki/Wanwallet-2.0-Cross-chain-transactions) - Instruction to initiate cross chain transaction using our Wanwallet 
 
+### 
+
 ---
 # Tools
 
@@ -110,6 +112,11 @@ Below is a collection of resources for anyone interested in learning more about 
 #### Faucets
 
 - [WanFaucet](https://wanfaucet.net/) - Instantly get Wancoins to fund your OTA transactions 
+
+#### Wanchain name service 
+
+- [Portal Network](https://www.portal.network/) - Portal Network supports the auction and trading of Wanchain domain names
+- [MyWanWallet](http://mywanwallet.com/) - MyWanWallet supports the auction and trading of Wanchain domain names
 
 # Developers
 
