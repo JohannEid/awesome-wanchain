@@ -1,6 +1,6 @@
 Overview of Wanchain
 
-Wanchain is a public blockchain working on decentralized cross-chain interoperability. 
+Wanchain is a public blockchain working on solving cross-chain interoperability. 
 
 The financial ecosystem of tomorrow will be built on many assets relying on heterogeneous chains, protocols and technologies. Wanchain aims to link all these assets, in a decentralized trustless and permissionless manner. 
 
