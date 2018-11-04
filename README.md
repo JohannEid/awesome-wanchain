@@ -77,7 +77,10 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Ledger Wallet For Wan](https://wanchain.org/files/Wanchain_Ledger_Wallet_Overview.pdf) - Instruction manual to setup Wan on Ledger wallet
 - [Wanwallet 2.0 Cross chain transactions](https://github.com/wanchain/go-wanchain/wiki/Wanwallet-2.0-Cross-chain-transactions) - Instruction to initiate cross chain transaction using our Wanwallet 
 
-### 
+### Technology Analysis 
+
+- [Introduction to Shamir's Secret Sharing and Secure Multi Party Computing](https://medium.com/wanchain-foundation/secure-multiparty-computation-and-shamirs-secret-sharing-on-wanchain-e502012b80ef) - Article by Oliver Birch that goes in depth into the 2 core components of Wanchain's technology
+-
 
 ---
 # Tools
@@ -118,9 +121,9 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Portal Network](https://www.portal.network/) - Portal Network supports the auction and trading of Wanchain domain names
 - [MyWanWallet](http://mywanwallet.com/) - MyWanWallet supports the auction and trading of Wanchain domain names
 
-# Developers
+# Developer Tools 
 
-Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with can be used on Wanchain. Here is the list of the tools that was copied fom this [Ethereum developers tools list](https://github.com/ConsenSys/ethereum-developer-tools-list) compiled by our awesome friends at Consensys! 
+Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with can be used on Wanchain. Here is a list of  tools developers can use to build on Wanchain. It that was copied fom this [Ethereum developers tools list](https://github.com/ConsenSys/ethereum-developer-tools-list) compiled by our awesome friends at Consensys! 
 
 ## New developers start here
 * [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
