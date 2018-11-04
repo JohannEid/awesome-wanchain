@@ -11,7 +11,7 @@ The whole purpose of Blockchain technology was to create a decentralized world w
 
 Wanchain aims to become a hub, where financial applications will host services that provide access to assets such as BTC/ETH/ERC20s, with many more blockchain integrations planned for the near future.
 
-We integrated Ethereum in our 2.0 release, which means users can now transfer ETH to Wanchain. Bitcoin integration is currently on beta testnet as well as the DAI stable coin and MKR token. The release of 3.0 due by the end of 2018 will allow DEXs built on Wanchain to list ETH/BTC trading pairs for the **first time in the industry.**
+We integrated Ethereum in our 2.0 release, which means users can now transfer ETH to Wanchain. Bitcoin integration is currently on beta testnet as well as the DAI stable coin and MKR token. The release of 3.0 (Bitcoin and ERC20 integration) due by the end of 2018 will allow DEXs built on Wanchain to list ETH/BTC trading pairs for the **first time in the industry.**
 
 We already proved that our approach to solving the cross-chain transfer of assets works. We can lock assets on native chains and issue their worth in proxy tokens which can be redeemed for the underlying asset at any moment. The entire process is distributed and will be fully decentralized in 2019. 
 
