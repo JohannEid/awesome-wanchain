@@ -90,7 +90,7 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 * [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
 
 #### Frameworks
-* [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). 
+* [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, and [Drizzle](https://github.com/truffle-box/drizzle-box) and Ganache, which we forked and adapted to Wanchain with [Wanache](https://github.com/C3Devs/wanache)
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The EVM development framework with the most cute animal pictures
