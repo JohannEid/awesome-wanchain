@@ -47,14 +47,14 @@ Below is a collection of resources for anyone interested in learning more about 
 
 - **Hardware Wallets**
 
-  - <a href="https://www.ledger.com/products/ledger-nano-s">Ledger Nano S</a>  
-  - <a href="https://trezor.io/">Trezor</a>
+  - <a href="https://trezor.io/">Trezor</a> - The first hardware walllet
+  - <a href="https://www.ledger.com/products/ledger-nano-s">Ledger Nano S</a> - The French hardware wallet :blush:
   
 - **Extension Wallets**
   
-  - <a href="https://wanmask.io/">Wanmask</a>
+  - <a href="https://wanmask.io/">Wanmask</a> - Chrome extension with Wan and WRC20 support
   
 - **Web Wallets**
   
-  - <a href="http://mywanwallet.com/">MyWanWallet</a>
+  - <a href="http://mywanwallet.com/">MyWanWallet</a> - Open source web wallet with Wan and WRC20 support
  
