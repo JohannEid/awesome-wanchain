@@ -1,7 +1,7 @@
-## Overview Of Wanchain
+# Overview Of Wanchain
 
 
-<a href="https://wanchain.org">Wanchain</a> is a public blockchain working on solving cross-chain interoperability. 
+[Wanchain](https://wanchain.org) is a public blockchain working on solving cross-chain interoperability. 
 
 The financial ecosystem of tomorrow will be built on many assets relying on heterogeneous chains, protocols and technologies. Wanchain aims to link all these assets, in a **decentralized trustless and permissionless manner.**
 
@@ -22,53 +22,52 @@ Below is a collection of resources for anyone interested in learning more about 
 **Official Links**
 --
 
-- <a href="https://wanchain.org">Main website</a>
-- <a href="https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf">Whitepaper</a>
-- <a href="https://wanchain.org/files/Wanchain-Yellowpaper-EN-version.pdf">Yellow paper</a>
-- <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Commercial paper</a>
-- <a href="https://wanchain.org/product">Wallet download page</a>
-- <a href="https://www.wanscan.org/">Explorer</a>
+- [Main website](https://wanchain.org)
+- [Whitepaper](https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf) 
+- [Yellow paper](https://wanchain.org/files/Wanchain-Yellowpaper-EN-version.pdf) 
+- [Commercial paper](https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf)
+- [Official wallet download page](https://wanchain.org/product)
+- [Explorer](https://www.wanscan.org/)
 
-**Official Communication Channels**
---
+## Official Communication Channels
 
-+ <a href="https://twitter.com/wanchain_org">Twitter</a>
-+ <a href="https://www.reddit.com/r/wanchain/">Reddit</a>
-+ <a href="https://medium.com/wanchain-foundation">Medium</a>
-+ <a href="https://www.youtube.com/channel/UCW_i8cncT0d1RyX7YCA_oKQ">Youtube</a>
-+ <a href="https://t.me/WanchainCHAT">Telegram chat</a>
-+ <a href="https://t.me/WanchainANN">Telegram announcement</a>
-+ <a href="https://discord.gg/6mp442">Discord</a>
+
+- [Twitter](https://twitter.com/wanchain_org)
+- [Reddit](https://www.reddit.com/r/wanchain/)
+- [Medium](https://medium.com/wanchain-foundation)
+- [Youtube](https://www.youtube.com/channel/UCW_i8cncT0d1RyX7YCA_oKQ)
+- [Telegram Chat](https://t.me/WanchainCHAT)
+- [Telegram Ann](https://t.me/WanchainANN)
+- [Discord](https://discord.gg/6mp442)
 
 ---
-**Tools**
-==
+# Tools
 
-**Store Your Wancoins**
---
 
-- **Hardware Wallets**
+## Store Your Wancoins
+
+
+#### Hardware Wallets
 
   - <a href="https://trezor.io/">Trezor</a> - The first hardware walllet
   - <a href="https://www.ledger.com/products/ledger-nano-s">Ledger Nano S</a> - The French hardware wallet :blush:
   
-- **Extension Wallets**
+#### Extension Wallets
   
   - <a href="https://wanmask.io/">Wanmask</a> - Chrome extension with Wan and WRC20 support
   
-- **Web Wallets**
+#### Web Wallets
   
   - <a href="http://mywanwallet.com/">MyWanWallet</a> - Open source web wallet with Wan and WRC20 support
   
-**Explorers**
--- 
+#### Explorers
+ 
 
 - <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Wanchain block explorer</a> - The official Wanchain explorer
 - <a href="https://wanscan.io/home">Wanscan</a> - A community built block explorer
 - <a href="https://wanstats.net//">MyWanWallet</a> - Wanchain network stats 
 
-**Faucets**
--- 
+#### Faucets
 
 - <a href="https://wanfaucet.net/">WanFaucet</a> - Instantly get Wancoins to fund your OTA transactions
 
