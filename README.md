@@ -20,13 +20,19 @@ Below is a collection of resources for anyone interested in learning more about 
 ---
 ## Table of Contents
 - [Official Links](#official-links)
+- [Official Communication Channels](#official-communication-channels)
+- [Tools](#tools)
+   - [Store your Wancoins](#store-your-wancoins)
+       - [Hardware wallets](#hardware-wallets)
+       - [Extension wallets](#extension-wallets)
+       - [Web wallets](#web-wallets)         
+   - [Explorers](#explorers)
+   - [Faucets](#faucets)
+- [New developers start here](#new-developers-start-here)
 - [Developer Tools](#developer-tools)
    - [Smart Contract Languages](#smart-contract-languages)
    - [Frameworks](#frameworks)
    - [IDEs](#ides)
-   - [Test blockchain networks](#test-blockchain-networks)
-   - [Test Ether faucets](#test-ether-faucets)
-
 
 **Official Links**
 --
