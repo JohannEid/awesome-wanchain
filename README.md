@@ -69,6 +69,14 @@ Below is a collection of resources for anyone interested in learning more about 
 - [An Overview of the Wanchain Cross-Chain Implementation Model](https://medium.com/wanchain-foundation/an-overview-of-the-wanchain-2-0-cross-chain-implementation-model-c455cfd25664) - Article by Dan Reecer
 - [What is Wanchain?](https://coincentral.com/wanchain-beginner-guide/) - Article by CoinCentral(.com)
 
+### Tutorial
+
+- [How To Deploy Smart Contract On Wanchain](http://www.wanchaindocs.org/en/latest/contracts-and-transactions/how-to-deploy-smart-contract.html) - Wanchain Documentation
+- [Developing Wanchain Applications](https://wanchain.org/files/WanchainHackathonHandbook_SanJose.pdf) - Hackathon Handbook by Weijia Zhang
+- [Trezor Wallet for Wan](https://www.wanchain.org/files/wanchain_trezor_wallet_overview.pdf) - Instruction manual to setup Wan on Trezor
+- [Ledger Wallet For Wan](https://wanchain.org/files/Wanchain_Ledger_Wallet_Overview.pdf) - Instruction manual to setup Wan on Ledger wallet
+- [Wanwallet 2.0 Cross chain transactions](https://github.com/wanchain/go-wanchain/wiki/Wanwallet-2.0-Cross-chain-transactions) - Instruction to initiate cross chain transaction using our Wanwallet 
+
 ---
 # Tools
 
