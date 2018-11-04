@@ -8,4 +8,4 @@ A decentralized interoperability solution is the required component that’s nec
 
 The whole purpose of Blockchain technology was to create a decentralized world where value and data could flow freely without intermediaries, in a fully peer to peer manner.
 
-Wanchain aims to become a hub, where financial applications will host services that provide access to assets such as BTC/ETH/ERC20s, with many more to come :)  
+Wanchain aims to become a hub, where financial applications will host services that provide access to assets such as BTC/ETH/ERC20s, with many more to come :smiley:  
