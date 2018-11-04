@@ -21,11 +21,13 @@ Below is a collection of resources for anyone interested in learning more about 
 ## Table of Contents
 - [Official Links](#official-links)
 - [Official Communication Channels](#official-communication-channels)
+- [Media](#media)
 - [Tools](#tools)
    - [Store your Wancoins](#store-your-wancoins)
        - [Hardware wallets](#hardware-wallets)
        - [Extension wallets](#extension-wallets)
-       - [Web wallets](#web-wallets)         
+       - [Web wallets](#web-wallets)
+       - [Mobile wallets](#mobile-wallets)         
    - [Explorers](#explorers)
    - [Faucets](#faucets)
 - [New developers start here](#new-developers-start-here)
@@ -56,6 +58,17 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Discord](https://discord.gg/6mp442)
 
 ---
+# Media
+
+### Introduction 
+
+- [The Importance Of Blockchain Interoperability](https://medium.com/wanchain-foundation/the-importance-of-blockchain-interoperability-b6a0bbd06d11) - Article by Jack Lu
+- [Wanchain - A new way of connection Blockchains](https://medium.com/@interblockchains/wanchain-interoperability-420e5022c138) - Article by Oliver Birch
+- [An Overview of the Wanchain Cross-Chain Implementation Model](https://medium.com/wanchain-foundation/an-overview-of-the-wanchain-2-0-cross-chain-implementation-model-c455cfd25664) - Article by Dan Reecer
+- [What is Wanchain?](https://coincentral.com/wanchain-beginner-guide/) - Article by CoinCentral(.com)
+- [What is Wanchain?](https://coincentral.com/wanchain-beginner-guide/) - Article by CoinCentral(.com)
+
+---
 # Tools
 
 
@@ -73,7 +86,11 @@ Below is a collection of resources for anyone interested in learning more about 
   
 #### Web Wallets
 
-- [MyWanWallet](http://mywanwallet.com/") - Open source web wallet with Wan and WRC20 support 
+- [MyWanWallet](http://mywanwallet.com/) - Open source web wallet with Wancoin and WRC20 support 
+
+#### Mobile Wallets
+
+- [Trust Wallet](https://trustwallet.com/) - Binance's official wallet supports Wancoin 
   
 #### Explorers
  
