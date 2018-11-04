@@ -48,26 +48,63 @@ Below is a collection of resources for anyone interested in learning more about 
 
 
 #### Hardware Wallets
-
-  - <a href="https://trezor.io/">Trezor</a> - The first hardware walllet
-  - <a href="https://www.ledger.com/products/ledger-nano-s">Ledger Nano S</a> - The French hardware wallet :blush:
+  
+- [Trezor](https://trezor.io/) - The first hardware walllet
+- [Ledger Nano S](https://www.ledger.com/products/ledger-nano-s) - The French hardware wallet :blush: 
   
 #### Extension Wallets
-  
-  - <a href="https://wanmask.io/">Wanmask</a> - Chrome extension with Wan and WRC20 support
+
+- [Wanmask](https://wanmask.io/)
   
 #### Web Wallets
-  
-  - <a href="http://mywanwallet.com/">MyWanWallet</a> - Open source web wallet with Wan and WRC20 support
+
+- [MyWanWallet](http://mywanwallet.com/") - Open source web wallet with Wan and WRC20 support 
   
 #### Explorers
  
-
-- <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Wanchain block explorer</a> - The official Wanchain explorer
-- <a href="https://wanscan.io/home">Wanscan</a> - A community built block explorer
-- <a href="https://wanstats.net//">MyWanWallet</a> - Wanchain network stats 
+- [Wanchain block explorer](https://www.wanscan.org/) - The official Wanchain explorer
+- [Wanscan](https://wanscan.io/home) - A community built block explorer
+- [Wanchain network stats ](https://wanstats.net//)
 
 #### Faucets
 
-- <a href="https://wanfaucet.net/">WanFaucet</a> - Instantly get Wancoins to fund your OTA transactions
+- [WanFaucet](https://wanfaucet.net/) - Instantly get Wancoins to fund your OTA transactions 
 
+# Developers
+
+Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with can be used on Wanchain. Here is the list of the tools that was copied fom this [Ethereum developers tools list](https://github.com/ConsenSys/ethereum-developer-tools-list) compiled by our awesome friends at Consensys! 
+
+## New developers start here
+* [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
+* [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
+* [Wanmask](https://wanmask.io/) - Chrome extension wallet to interact with Dapps.
+* [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
+
+## Developer Tools
+### Developing Smart Contracts
+#### Smart Contract Languages
+* [Solidity](http://solidity.readthedocs.io/en/latest/)- EVM smart contracting language
+* [Bamboo](https://github.com/pirapira/bamboo) - A morphing smart contract language
+* [Vyper](https://github.com/ethereum/vyper) - New experimental pythonic programming language
+* [LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23) - Low-level Lisp-like Language
+* [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
+
+#### Frameworks
+* [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). 
+* [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
+* [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
+* [Populus](https://github.com/ethereum/populus) - The EVM development framework with the most cute animal pictures
+* [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
+
+
+#### IDEs
+* [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
+* [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
+* [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom)
+* [Pragma](https://www.withpragma.com/) - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts.
+[autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
+* [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
+* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
+* [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc.
+* [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
+* [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
