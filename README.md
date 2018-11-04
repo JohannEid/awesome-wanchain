@@ -28,3 +28,14 @@ Below is a collection of resources for anyone interested in learning more about 
 + <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Commercial paper</a>
 + <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Wallet download page</a>
 + <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Explorer</a>
+
+**Official Communication Channels**
+--
+
++ <a href="https://twitter.com/wanchain_org">Twitter</a>
++ <a href="https://www.reddit.com/r/wanchain/">Reddit</a>
++ <a href="https://medium.com/wanchain-foundation">Medium</a>
++ <a href="https://www.youtube.com/channel/UCW_i8cncT0d1RyX7YCA_oKQ">Youtube</a>
++ <a href="https://t.me/WanchainCHAT">Telegram chat</a>
++ <a href="https://t.me/WanchainANN">Telegram announcement</a>
++ <a href="https://discord.gg/6mp442">Discord</a>
