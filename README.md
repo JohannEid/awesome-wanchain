@@ -39,3 +39,22 @@ Below is a collection of resources for anyone interested in learning more about 
 + <a href="https://t.me/WanchainCHAT">Telegram chat</a>
 + <a href="https://t.me/WanchainANN">Telegram announcement</a>
 + <a href="https://discord.gg/6mp442">Discord</a>
+
+---
+
+**Store Your Wan**
+--
+
+- **Hardware Wallets**
+
+  - <a href="https://www.ledger.com/products/ledger-nano-s">Ledger Nano S</a>  
+  - <a href="https://trezor.io/">Trezor</a>
+  
+- **Extension Wallets**
+  
+  - <a href="https://wanmask.io/">Wanmask</a>
+  
+- **Web Wallets**
+  
+ - <a href="http://mywanwallet.com/">MyWanWallet</a>
+ 
