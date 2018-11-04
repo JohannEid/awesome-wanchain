@@ -44,9 +44,7 @@ Below is a collection of resources for anyone interested in learning more about 
 **Tools**
 ==
 
-
-
-**Store Your Wan**
+**Store Your Wancoins**
 --
 
 - **Hardware Wallets**
@@ -68,4 +66,9 @@ Below is a collection of resources for anyone interested in learning more about 
 - <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Wanchain block explorer</a> - The official Wanchain explorer
 - <a href="https://wanscan.io/home">Wanscan</a> - A community built block explorer
 - <a href="https://wanstats.net//">MyWanWallet</a> - Wanchain network stats 
-  
+
+**Faucets**
+-- 
+
+- <a href="https://wanfaucet.net/">WanFaucet</a> - Instantly get Wancoins to fund your OTA transactions
+
