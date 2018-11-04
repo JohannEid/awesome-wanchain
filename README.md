@@ -22,12 +22,12 @@ Below is a collection of resources for anyone interested in learning more about 
 **Official Links**
 --
 
-+ <a href="https://wanchain.org">Main website</a>
-+ <a href="https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf">Whitepaper</a>
-+ <a href="https://wanchain.org/files/Wanchain-Yellowpaper-EN-version.pdf">Yellow paper</a>
-+ <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Commercial paper</a>
-+ <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Wallet download page</a>
-+ <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Explorer</a>
+- <a href="https://wanchain.org">Main website</a>
+- <a href="https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf">Whitepaper</a>
+- <a href="https://wanchain.org/files/Wanchain-Yellowpaper-EN-version.pdf">Yellow paper</a>
+- <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Commercial paper</a>
+- <a href="https://wanchain.org/product">Wallet download page</a>
+- <a href="https://www.wanscan.org/">Explorer</a>
 
 **Official Communication Channels**
 --
@@ -44,6 +44,8 @@ Below is a collection of resources for anyone interested in learning more about 
 **Tools**
 ==
 
+
+
 **Store Your Wan**
 --
 
@@ -59,4 +61,11 @@ Below is a collection of resources for anyone interested in learning more about 
 - **Web Wallets**
   
   - <a href="http://mywanwallet.com/">MyWanWallet</a> - Open source web wallet with Wan and WRC20 support
- 
+  
+**Block Explorers**
+-- 
+
+- <a href="https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf">Wanchain block explorer</a> - The official Wanchain explorer
+- <a href="https://wanscan.io/home">Wanscan</a> - A community built block explorer
+- <a href="https://wanstats.net//">MyWanWallet</a> - Wanchain network stats 
+  
