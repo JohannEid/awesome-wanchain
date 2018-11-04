@@ -9,7 +9,7 @@ A decentralized interoperability solution is the required component that’s nec
 
 The whole purpose of Blockchain technology was to create a decentralized world where value and data could flow freely without intermediaries, in a fully peer to peer manner.
 
-Wanchain aims to become a hub, where financial applications will host services that provide access to assets such as BTC/ETH/ERC20s, with many more assets both digital and from the real world to come :smiley:  
+Wanchain aims to become a hub, where financial applications will host services that provide access to assets such as BTC/ETH/ERC20s, with many more blockchain integrations and tokenized assets from the real world to be launched in the near future :smiley:  
 
 We integrated Ethereum in our 2.0 release, which means users can now transfer ETH to Wanchain. Bitcoin integration is currently on beta testnet as well as the DAI stable coin and MKR token. The release of 3.0 due by the end of 2018 will allow DEXs built on Wanchain to list ETH/BTC trading pairs for the **first time in the industry.**
 
