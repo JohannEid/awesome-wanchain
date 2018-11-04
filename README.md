@@ -56,5 +56,5 @@ Below is a collection of resources for anyone interested in learning more about 
   
 - **Web Wallets**
   
- - <a href="http://mywanwallet.com/">MyWanWallet</a>
+  - <a href="http://mywanwallet.com/">MyWanWallet</a>
  
