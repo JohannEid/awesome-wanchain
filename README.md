@@ -135,6 +135,18 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 
 ---
 # Get Wancoins! 
+
+### Exchanges 
+
+-[Wanchain markets](https://coinmarketcap.com/fr/currencies/wanchain/#markets)
+-[Binance](https://www.binance.com/en/trade/WAN_BTC)
+-[Huobi](https://www.huobi.com/)
+-[Kucoin](https://www.kucoin.com/#/)
+-[Bitrue](https://www.bitrue.com/)
+-[Bitkub](https://www.bitkub.com/)
+-[Dragonex](https://dragonex.io/)
+-[Bitbns](https://bitbns.com/)
+
 ---
 # Tools
 
