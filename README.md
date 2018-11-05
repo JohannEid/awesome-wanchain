@@ -106,7 +106,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 
 ### Important Milestones 
 
-- [Wanchain 3.0 Alpha Testnet Is Live](https://medium.com/wanchain-foundation/wanchain-3-0-bridging-bitcoin-ethereum-alpha-testnet-is-live-4fe89a6c1f05)
+- [Wanchain 3.0 Alpha Testnet Is Live](https://medium.com/wanchain-foundation/wanchain-3-0-bridging-bitcoin-ethereum-alpha-testnet-is-live-4fe89a6c1f05) - Article by Jack Lu
 - [Wanchain's Bridge To The Ethereum Blockchain Is Now Open](https://altcointoday.com/wanchains-bridge-to-the-ethereum-blockchain-is-now-open/) - Article by AltcoinToday(.com) for the release of version 2.0 
 - [Wanchain's Mainnet Is Live Video](https://www.youtube.com/watch?v=sxQe0NiZvB0) - Short video by Wanchain
 
@@ -133,11 +133,13 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 -[Cryptocurrencies With Working Products](https://www.investinblockchain.com/top-cryptocurrencies-working-products/) - Article by Invest In Blockchain (.com). Wanchain mentioned as one of the few cryptos with a working product
 - [Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
 
-
+---
+# Get your Wancoins! 
+---
 # Tools
 
 
-## Store Your Wancoins
+### Store Your Wancoins
 
 
 #### Hardware Wallets
