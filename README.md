@@ -23,6 +23,15 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Official Communication Channels](#official-communication-channels)
 - [Media](#media)
    - [Beginner Guides](#beginner-guides)
+   - [Tutorials](#tutorials)
+   - [Technology Analysis](#technology-analysis)
+      - [Dive into Secure Multi Party Computation](#dive-into-secure-multi-party-computation)
+      - [Dive into Sharmir's Secret Sharing Scheme](#dive-into-sharmir's-secret-sharing-scheme)
+   - [AMAs| Messages To Community](#amas-|-messages-to-community)
+   - [Important Milestones](#technology-analysis)
+   - [Partnerships | Collaborations](#partnerships-|-collaborations)  
+   - [Interviews | Conferences](#interviews-|-conferences)  
+   - [Articles | Videos](#articles-|-videos )  
 - [Tools](#tools)
    - [Store your Wancoins](#store-your-wancoins)
        - [Hardware wallets](#hardware-wallets)
@@ -71,7 +80,7 @@ Below is a collection of resources for anyone interested in learning more about 
 - [What is Wanchain?](https://coincentral.com/wanchain-beginner-guide/) - Article by CoinCentral(.com)
 - [Wanchain Architecture](https://www.reddit.com/r/wanchain/comments/7qyixh/still_skeptical_would_anyone_who_understands_the/dstb7lk) - Reddit post by u/phoeniciaStrategy
 
-### Tutorial
+### Tutorials
 
 - [How To Deploy Smart Contract On Wanchain](http://www.wanchaindocs.org/en/latest/contracts-and-transactions/how-to-deploy-smart-contract.html) - Wanchain Documentation
 - [Developing Wanchain Applications](https://wanchain.org/files/WanchainHackathonHandbook_SanJose.pdf) - Hackathon Handbook by Weijia Zhang
@@ -85,7 +94,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 
 - [Introduction to Shamir's Secret Sharing and Secure Multi Party Computing](https://medium.com/wanchain-foundation/secure-multiparty-computation-and-shamirs-secret-sharing-on-wanchain-e502012b80ef) - Article by Oliver Birch that goes in depth into the 2 core components of Wanchain's technology
 
-#### Dive into SMPC
+#### Dive into Secure Multi Party Computation
 
 - [Tutorial on Secure Multi Party Computation](https://www.iitk.ac.in/eeold/archive/courses/2013/intel-info/d4pdf1.pdf) - Presentation by Somitra Sanadhya
 - [Protecting Privacy with Secure Multi Party Computation](https://www.newamerica.org/oti/blog/protecting-privacy-secure-multi-party-computation/) - Blog post by Christopher Sadler
@@ -97,7 +106,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
 - [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
 
-### AMAs And Messages To Community 
+### AMAs | Messages To Community 
 
 - [A Letter To The Wanchain Community](https://medium.com/wanchain-foundation/a-letter-to-our-community-8bba64ff1cc0) - Letter by Jack Lu 
 - [Wanchain Reddit AMA](https://www.reddit.com/r/wanchain/comments/8wnrj5/wanchain_reddit_ama_is_live/) - AMA by Wanchain team
@@ -111,14 +120,14 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Wanchain's Bridge To The Ethereum Blockchain Is Now Open](https://altcointoday.com/wanchains-bridge-to-the-ethereum-blockchain-is-now-open/) - Article by AltcoinToday(.com) for the release of version 2.0 
 - [Wanchain's Mainnet Is Live Video](https://www.youtube.com/watch?v=sxQe0NiZvB0) - Short video by Wanchain
 
-### Partnerships And Collaborations
+### Partnerships | Collaborations
 
 - [Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
 - [0xcert and Wanchain enter Stretegic Alliance](https://0xcert.org/news/0xcert-and-wanchain-strategic-alliance/) - Article by 0xcert
 - [Wanchain Teams Up With Various Austin Companies to Form Regional Blockchain Innovation Hub](https://www.crowdfundinsider.com/2018/02/128591-wanchain-teams-various-austin-companies-form-regional-blockchain-innovation-hub/) - Article by Samantha Hurst
 
 
-### Interviews and Conferences 
+### Interviews | Conferences 
 
 - [Jack Lu's Interview On Wanchain](https://www.youtube.com/watch?v=-GQtPvL2qqM) - Interview by Eugene Tay
 - [Jack Lu's Speech On Wanchain And Its Ecosystem](https://www.youtube.com/watch?v=OeOp0BkZP9U&t=1s) - Speech at Beyond Blocks
