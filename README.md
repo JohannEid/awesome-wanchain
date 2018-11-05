@@ -99,39 +99,39 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 
 ### AMAs And Messages To Community 
 
-[A Letter To The Wanchain Community](https://medium.com/wanchain-foundation/a-letter-to-our-community-8bba64ff1cc0) - Letter by Jack Lu 
-[Wanchain Reddit AMA](https://www.reddit.com/r/wanchain/comments/8wnrj5/wanchain_reddit_ama_is_live/) - AMA by Wanchain team
-[CrptoCurve And Wanchain AMA](https://www.reddit.com/r/wanchain/comments/9qpug9/crypto_curve_and_wanchain_ama/) - AMA by Wanchain and Cryptocurve teams
-[This Is Wanchain Ask Us Anything](https://www.reddit.com/r/wanchain/comments/7qkh8m/this_is_wanchain_ask_us_anything/) - AMA by the Wanchain team
+- [A Letter To The Wanchain Community](https://medium.com/wanchain-foundation/a-letter-to-our-community-8bba64ff1cc0) - Letter by Jack Lu 
+- [Wanchain Reddit AMA](https://www.reddit.com/r/wanchain/comments/8wnrj5/wanchain_reddit_ama_is_live/) - AMA by Wanchain team
+- [CrptoCurve And Wanchain AMA](https://www.reddit.com/r/wanchain/comments/9qpug9/crypto_curve_and_wanchain_ama/) - AMA by Wanchain and Cryptocurve teams
+- [This Is Wanchain Ask Us Anything](https://www.reddit.com/r/wanchain/comments/7qkh8m/this_is_wanchain_ask_us_anything/) - AMA by the Wanchain team
 
 ### Important Milestones 
 
-[Wanchain's Bridge to the Ethereum Blockchain is now open](https://altcointoday.com/wanchains-bridge-to-the-ethereum-blockchain-is-now-open/) - Article by AltcoinToday(.com) for the release of version 2.0 
-[Wanchain's mainnet is live video](https://www.youtube.com/watch?v=sxQe0NiZvB0) - Short video by Wanchain
+- [Wanchain's Bridge to the Ethereum Blockchain is now open](https://altcointoday.com/wanchains-bridge-to-the-ethereum-blockchain-is-now-open/) - Article by AltcoinToday(.com) for the release of version 2.0 
+- [Wanchain's mainnet is live video](https://www.youtube.com/watch?v=sxQe0NiZvB0) - Short video by Wanchain
 []
 
 ### Partnerships And Collaborations
 
-[Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
-[0xcert and Wanchain enter Stretegic Alliance](https://0xcert.org/news/0xcert-and-wanchain-strategic-alliance/) - Article by 0xcert
-[Wanchain Teams Up With Various Austin Companies to Form Regional Blockchain Innovation Hub](https://www.crowdfundinsider.com/2018/02/128591-wanchain-teams-various-austin-companies-form-regional-blockchain-innovation-hub/) - Article by Samantha Hurst
+- [Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
+- [0xcert and Wanchain enter Stretegic Alliance](https://0xcert.org/news/0xcert-and-wanchain-strategic-alliance/) - Article by 0xcert
+- [Wanchain Teams Up With Various Austin Companies to Form Regional Blockchain Innovation Hub](https://www.crowdfundinsider.com/2018/02/128591-wanchain-teams-various-austin-companies-form-regional-blockchain-innovation-hub/) - Article by Samantha Hurst
 
 
 ### Interviews and Conferences 
 
-[Jack Lu's Interview On Wanchain](https://www.youtube.com/watch?v=-GQtPvL2qqM) - Interview by Eugene Tay
-[Jack Lu's Speech On Wanchain And Its Ecosystem] - Speech at Beyond Blocks
-[Oliver Birch Interview](https://www.youtube.com/watch?v=ca0uHqiZmsM&feature=youtu.be) - Interview by CryptoDealers
-[Scott Trowbridge and Oliver Birch Interview] - Interview by Crypto Bulk
-[Dustin Byington - World Blockchain Dubai](https://www.youtube.com/watch?v=ElFBf_tkPwc)
-[Dustin Byington Interview - Privacy Comes To Asia](https://www.youtube.com/watch?v=YnKowYlofo8) - Interview by the Crypto Lark
-[Dustin Byington - Overview Of Wanchain](https://www.youtube.com/watch?v=ObxJje6aSwI) - Interview by Blockchain Brad
+- [Jack Lu's Interview On Wanchain](https://www.youtube.com/watch?v=-GQtPvL2qqM) - Interview by Eugene Tay
+- [Jack Lu's Speech On Wanchain And Its Ecosystem] - Speech at Beyond Blocks
+- [Oliver Birch Interview](https://www.youtube.com/watch?v=ca0uHqiZmsM&feature=youtu.be) - Interview by CryptoDealers
+- [Scott Trowbridge and Oliver Birch Interview] - Interview by Crypto Bulk
+- [Dustin Byington - World Blockchain Dubai](https://www.youtube.com/watch?v=ElFBf_tkPwc)
+- [Dustin Byington Interview - Privacy Comes To Asia](https://www.youtube.com/watch?v=YnKowYlofo8) - Interview by the Crypto Lark
+- [Dustin Byington - Overview Of Wanchain](https://www.youtube.com/watch?v=ObxJje6aSwI) - Interview by Blockchain Brad
 
 
 ### Articles And Video About Us :heart:
 
 -[Cryptocurrencies With Working Products](https://www.investinblockchain.com/top-cryptocurrencies-working-products/) - Article by Invest In Blockchain (.com). Wanchain mentioned as one of the few cryptos with a working product
-[Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
+- [Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
 
 
 # Tools
