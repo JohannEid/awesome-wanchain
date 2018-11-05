@@ -27,7 +27,7 @@ Below is a collection of resources for anyone interested in learning more about 
    - [Technology Analysis](#technology-analysis)
       - [Dive into Secure Multi Party Computation](#dive-into-secure-multi-party-computation)
       - [Dive into Sharmir's Secret Sharing Scheme](#dive-into-sharmir's-secret-sharing-scheme)
-   - [AMAs| Messages To Community](#amas-|-messages-to-community)
+   - [AMAs | Messages To Community](#amas-|-messages-to-community)
    - [Important Milestones](#technology-analysis)
    - [Partnerships | Collaborations](#partnerships-|-collaborations)  
    - [Interviews | Conferences](#interviews-|-conferences)  
