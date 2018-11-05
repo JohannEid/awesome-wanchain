@@ -79,6 +79,8 @@ Below is a collection of resources for anyone interested in learning more about 
 
 ### Technology Analysis 
 
+The 2 core technologies that allow Wanchain's cross chain functionalities to safely work are SMPC(Secure Multi Party Computing and Shamir's Secet Sharing Scheme) 
+
 - [Introduction to Shamir's Secret Sharing and Secure Multi Party Computing](https://medium.com/wanchain-foundation/secure-multiparty-computation-and-shamirs-secret-sharing-on-wanchain-e502012b80ef) - Article by Oliver Birch that goes in depth into the 2 core components of Wanchain's technology
 
 #### Dive into SMPC
@@ -87,7 +89,7 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Protecting Privacy with Secure Multi Party Computation](https://www.newamerica.org/oti/blog/protecting-privacy-secure-multi-party-computation/) - Blog post by Christopher Sadler
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc) - A collection of resources to learn more about MPC compiled by rdragos
 
-#### Dive into Sharmir's Secret Sharing
+#### Dive into Sharmir's Secret Sharing Scheme
 
 - [What is Shamir's Secret Sharing Scheme?](http://point-at-infinity.org/ssss/) - Article published on point-at-infinity(.org)
 - [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
