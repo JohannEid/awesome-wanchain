@@ -103,6 +103,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Wanchain Reddit AMA](https://www.reddit.com/r/wanchain/comments/8wnrj5/wanchain_reddit_ama_is_live/) - AMA by Wanchain team
 - [CryptoCurve And Wanchain AMA](https://www.reddit.com/r/wanchain/comments/9qpug9/crypto_curve_and_wanchain_ama/) - AMA by Wanchain and Cryptocurve teams
 - [This Is Wanchain Ask Us Anything](https://www.reddit.com/r/wanchain/comments/7qkh8m/this_is_wanchain_ask_us_anything/) - AMA by the Wanchain team
+- [Meet The Wanchain Team](https://www.youtube.com/watch?v=Itsbuh1HtJY) - Video by Wanchain
 
 ### Important Milestones 
 
@@ -120,17 +121,19 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 ### Interviews and Conferences 
 
 - [Jack Lu's Interview On Wanchain](https://www.youtube.com/watch?v=-GQtPvL2qqM) - Interview by Eugene Tay
-- [Jack Lu's Speech On Wanchain And Its Ecosystem] - Speech at Beyond Blocks
+- [Jack Lu's Speech On Wanchain And Its Ecosystem](https://www.youtube.com/watch?v=OeOp0BkZP9U&t=1s) - Speech at Beyond Blocks
+- [Interview With Jack Lu, Founder And CEO At Wanchain](https://medium.com/@liluzivertcoin/interview-with-jack-lu-founder-and-ceo-wanchain-1a994e43ef1a) - Interview by Uzi
 - [Oliver Birch Interview](https://www.youtube.com/watch?v=ca0uHqiZmsM&feature=youtu.be) - Interview by CryptoDealers
-- [Scott Trowbridge and Oliver Birch Interview] - Interview by Crypto Bulk
+- [Scott Trowbridge and Oliver Birch Interview](https://www.youtube.com/watch?v=7PUauCKQP1c&t=1s) - Interview by Crypto Bulk
 - [Dustin Byington - World Blockchain Dubai](https://www.youtube.com/watch?v=ElFBf_tkPwc)
 - [Dustin Byington Interview - Privacy Comes To Asia](https://www.youtube.com/watch?v=YnKowYlofo8) - Interview by the Crypto Lark
 - [Dustin Byington - Overview Of Wanchain](https://www.youtube.com/watch?v=ObxJje6aSwI) - Interview by Blockchain Brad
-
+- [Interviw With Oliver Birch And Dan Reecer About Marketing And Community](https://www.youtube.com/watch?v=HOuEqQ9HqTE) - Interview by Unifi
+- []()
 
 ### Articles And Video About Us :heart:
 
--[Cryptocurrencies With Working Products](https://www.investinblockchain.com/top-cryptocurrencies-working-products/) - Article by Invest In Blockchain (.com). Wanchain mentioned as one of the few cryptos with a working product
+- [Cryptocurrencies With Working Products](https://www.investinblockchain.com/top-cryptocurrencies-working-products/) - Article by Invest In Blockchain (.com). Wanchain mentioned as one of the few cryptos with a working product
 - [Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
 
 ---
