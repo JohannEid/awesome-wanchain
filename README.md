@@ -32,6 +32,7 @@ Below is a collection of resources for anyone interested in learning more about 
    - [Partnerships | Collaborations](#partnerships-|-collaborations)  
    - [Interviews | Conferences](#interviews-|-conferences)  
    - [Articles | Videos](#articles-|-videos )  
+- [Get Wancoins](#get-wancoins)
 - [Tools](#tools)
    - [Store your Wancoins](#store-your-wancoins)
        - [Hardware wallets](#hardware-wallets)
@@ -40,6 +41,7 @@ Below is a collection of resources for anyone interested in learning more about 
        - [Mobile wallets](#mobile-wallets)         
    - [Explorers](#explorers)
    - [Faucets](#faucets)
+   - [Wanchain Name Server](#wanchain-name-service)
 - [New developers start here](#new-developers-start-here)
 - [Developer Tools](#developer-tools)
    - [Smart Contract Languages](#smart-contract-languages)
@@ -149,7 +151,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
 
 ---
-# Get Wancoins! 
+# Get Wancoins
 
 ### Exchanges 
 
