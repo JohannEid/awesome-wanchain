@@ -22,7 +22,7 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Official Links](#official-links)
 - [Official Communication Channels](#official-communication-channels)
 - [Media](#media)
-   -[Beginner Guides](#beginner-guides)
+   - [Beginner Guides](#beginner-guides)
 - [Tools](#tools)
    - [Store your Wancoins](#store-your-wancoins)
        - [Hardware wallets](#hardware-wallets)
