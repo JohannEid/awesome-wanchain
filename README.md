@@ -97,7 +97,11 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
 - [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
 
-### AMAs
+### AMAs And Messages To Community 
+
+[A Letter To The Wanchain Community](https://medium.com/wanchain-foundation/a-letter-to-our-community-8bba64ff1cc0) - Letter by Jack Lu 
+[]()
+[]()
 
 ### Important Milestones 
 
@@ -105,18 +109,28 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 [Wanchain's mainnet is live video](https://www.youtube.com/watch?v=sxQe0NiZvB0) - Short video by Wanchain
 []
 
-### Partnerships and Collaborations
+### Partnerships And Collaborations
 
 [Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
 [0xcert and Wanchain enter Stretegic Alliance](https://0xcert.org/news/0xcert-and-wanchain-strategic-alliance/) - Article by 0xcert
-[]
+[Wanchain Teams Up With Various Austin Companies to Form Regional Blockchain Innovation Hub](https://www.crowdfundinsider.com/2018/02/128591-wanchain-teams-various-austin-companies-form-regional-blockchain-innovation-hub/) - Article by Samantha Hurst
 
-### Interview 
+### Interviews and Conferences 
 
-[Jack Lu's interview on Wanchain](https://www.youtube.com/watch?v=-GQtPvL2qqM) - Interview by Eugene Tay
+[Jack Lu's Interview On Wanchain](https://www.youtube.com/watch?v=-GQtPvL2qqM) - Interview by Eugene Tay
+[Jack Lu's Speech On Wanchain And Its Ecosystem] - Speech at Beyond Blocks
+[Oliver Birch Interview](https://www.youtube.com/watch?v=ca0uHqiZmsM&feature=youtu.be) - Interview by CryptoDealers
+[Scott Trowbridge and Oliver Birch Interview] - Interview by Crypto Bulk
+[Dustin Byington - World Blockchain Dubai](https://www.youtube.com/watch?v=ElFBf_tkPwc)
+[Dustin Byington Interview - Privacy Comes To Asia](https://www.youtube.com/watch?v=YnKowYlofo8) - Interview by the Crypto Lark
 
 
----
+### Articles And Video About Us :heart:
+
+-[Cryptocurrencies With Working Products](https://www.investinblockchain.com/top-cryptocurrencies-working-products/) - Article by Invest In Blockchain (.com). Wanchain mentioned as one of the few cryptos with a working product
+[Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
+
+
 # Tools
 
 
