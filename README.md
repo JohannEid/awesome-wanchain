@@ -99,6 +99,21 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 
 ### AMAs
 
+### Important Milestones 
+
+[Wanchain's Bridge to the Ethereum Blockchain is now open](https://altcointoday.com/wanchains-bridge-to-the-ethereum-blockchain-is-now-open/) - Article by AltcoinToday(.com) for the release of version 2.0 
+[Wanchain's mainnet is live video](https://www.youtube.com/watch?v=sxQe0NiZvB0) - Short video by Wanchain
+[]
+
+### Partnerships and Collaborations
+
+[Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
+[0xcert and Wanchain enter Stretegic Alliance](https://0xcert.org/news/0xcert-and-wanchain-strategic-alliance/) - Article by 0xcert
+[]
+
+### Interview 
+
+[Jack Lu's interview on Wanchain](https://www.youtube.com/watch?v=-GQtPvL2qqM) - Interview by Eugene Tay
 
 
 ---
