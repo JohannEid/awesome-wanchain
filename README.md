@@ -80,7 +80,9 @@ Below is a collection of resources for anyone interested in learning more about 
 ### Technology Analysis 
 
 - [Introduction to Shamir's Secret Sharing and Secure Multi Party Computing](https://medium.com/wanchain-foundation/secure-multiparty-computation-and-shamirs-secret-sharing-on-wanchain-e502012b80ef) - Article by Oliver Birch that goes in depth into the 2 core components of Wanchain's technology
--
+- [Tutorial on Secure Multi Party Computation](https://www.iitk.ac.in/eeold/archive/courses/2013/intel-info/d4pdf1.pdf) - Presentation by Somitra Sanadhya
+-[Protecting Privacy with Secure Multi Party Computation](https://www.newamerica.org/oti/blog/protecting-privacy-secure-multi-party-computation/) - Blog post by Christopher Sadler
+-[awesome-mpc](https://github.com/rdragos/awesome-mpc) - A collection of resources to learn more about MPC compiled by rdragos
 
 ---
 # Tools
