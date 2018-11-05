@@ -63,11 +63,13 @@ Below is a collection of resources for anyone interested in learning more about 
 
 ### Beginner Guides 
 
-- [Overview of Wanchain?](https://coincentral.com/wanchain-beginner-guide/) - Article by Stillman
+- [Overview Of Wanchain](https://coincentral.com/wanchain-beginner-guide/) - Article by Stillman
+- [Wanchain Introduction Video](https://www.youtube.com/watch?v=caCXal3ZwfA&feature=youtu.be) - Video by Wanchain
 - [The Importance Of Blockchain Interoperability](https://medium.com/wanchain-foundation/the-importance-of-blockchain-interoperability-b6a0bbd06d11) - Article by Jack Lu
 - [Wanchain - A new way of connection Blockchains](https://medium.com/@interblockchains/wanchain-interoperability-420e5022c138) - Article by Oliver Birch
 - [An Overview of the Wanchain Cross-Chain Implementation Model](https://medium.com/wanchain-foundation/an-overview-of-the-wanchain-2-0-cross-chain-implementation-model-c455cfd25664) - Article by Dan Reecer
 - [What is Wanchain?](https://coincentral.com/wanchain-beginner-guide/) - Article by CoinCentral(.com)
+- [Wanchain Architecture](https://www.reddit.com/r/wanchain/comments/7qyixh/still_skeptical_would_anyone_who_understands_the/dstb7lk) - Reddit post by u/phoeniciaStrategy
 
 ### Tutorial
 
@@ -79,7 +81,7 @@ Below is a collection of resources for anyone interested in learning more about 
 
 ### Technology Analysis 
 
-The 2 core technologies that allow Wanchain's cross chain functionalities to safely work are SMPC(Secure Multi Party Computing and Shamir's Secet Sharing Scheme) 
+The 2 core technologies that allow Wanchain's cross chain functionalities to securely work are SMPC(Secure Multi Party Computing) and SSSS (Shamir's Secet Sharing Scheme) 
 
 - [Introduction to Shamir's Secret Sharing and Secure Multi Party Computing](https://medium.com/wanchain-foundation/secure-multiparty-computation-and-shamirs-secret-sharing-on-wanchain-e502012b80ef) - Article by Oliver Birch that goes in depth into the 2 core components of Wanchain's technology
 
@@ -94,6 +96,10 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to saf
 - [What is Shamir's Secret Sharing Scheme?](http://point-at-infinity.org/ssss/) - Article published on point-at-infinity(.org)
 - [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
 - [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
+
+### AMAs
+
+
 
 ---
 # Tools
