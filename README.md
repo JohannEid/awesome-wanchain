@@ -134,7 +134,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
 
 ---
-# Get your Wancoins! 
+# Get Wancoins! 
 ---
 # Tools
 
