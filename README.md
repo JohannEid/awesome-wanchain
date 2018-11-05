@@ -129,7 +129,10 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Dustin Byington Interview - Privacy Comes To Asia](https://www.youtube.com/watch?v=YnKowYlofo8) - Interview by the Crypto Lark
 - [Dustin Byington - Overview Of Wanchain](https://www.youtube.com/watch?v=ObxJje6aSwI) - Interview by Blockchain Brad
 - [Interviw With Oliver Birch And Dan Reecer About Marketing And Community](https://www.youtube.com/watch?v=HOuEqQ9HqTE) - Interview by Unifi
-- []()
+- [Johann Eid's Presentation Of Wanchain](https://www.youtube.com/watch?v=OuCxORB2Uqg) - Conference at StartupToken
+- [Oliver Birch And Johann Eid Talk About Wanchain](https://www.youtube.com/watch?v=cNhKLb5BCOw&t=604s) - Wanchain's meetup in France
+- [Dustin Byington and Jack Lu-Wanchain-The North American Bitcoin Conference](https://www.youtube.com/watch?v=C6qeBt37750) - Conference by Jack Lu and Dustin Byington
+- [Wanchain Introduction For 2.0](https://www.youtube.com/watch?v=pDZk5_O32Yw) - Conference at Wuhzen World Blockchain Conference
 
 ### Articles And Video About Us :heart:
 
