@@ -43,10 +43,11 @@ Below is a collection of resources for anyone interested in learning more about 
    - [Faucets](#faucets)
    - [Wanchain Name Server](#wanchain-name-service)
 - [New developers start here](#new-developers-start-here)
-- [Developer Tools](#developer-tools)
+- [Developer Resources](#developer-resources)
    - [Smart Contract Languages](#smart-contract-languages)
    - [Frameworks](#frameworks)
    - [IDEs](#ides)
+   - [Github Repos](#github-repos)
 
 **Official Links**
 --
@@ -214,7 +215,7 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 * [Wanmask](https://wanmask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
 
-## Developer Tools
+## Developer Resources
 ### Developing Smart Contracts
 #### Smart Contract Languages
 * [Solidity](http://solidity.readthedocs.io/en/latest/)- EVM smart contracting language
@@ -243,5 +244,9 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 * [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
 * [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
 
-
-####
+#### Github Repos
+-[Wanx](https://github.com/wanchain/wanx) - Utility for making cross chain transactions on the wanchain network.  
+-[]() - 
+-[]() - 
+-[]() - 
+-[]() - 
