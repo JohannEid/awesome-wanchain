@@ -27,11 +27,11 @@ Below is a collection of resources for anyone interested in learning more about 
    - [Technology Analysis](#technology-analysis)
       - [Dive into Secure Multi Party Computation](#dive-into-secure-multi-party-computation)
       - [Dive into Sharmir's Secret Sharing Scheme](#dive-into-sharmir's-secret-sharing-scheme)
-   - [AMAs | Messages To Community](#amas-|-messages-to-community)
+   - [AMAs And Messages To Community](#amas-and-messages-to-community)
    - [Important Milestones](#technology-analysis)
-   - [Partnerships | Collaborations](#partnerships- | -collaborations)  
-   - [Interviews | Conferences](#interviews-|-conferences)  
-   - [Articles | Videos](#articles-|-videos )  
+   - [Partnerships And Collaborations](#partnerships-and-collaborations)  
+   - [Interviews And Conferences](#interviews-and-conferences)  
+   - [Articles And Videos](#articles-and-videos )  
 - [Get Wancoins](#get-wancoins)
 - [Tools](#tools)
    - [Store your Wancoins](#store-your-wancoins)
@@ -109,7 +109,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
 - [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
 
-### AMAs | Messages To Community 
+### AMAs And Messages To Community 
 
 - [A Letter To The Wanchain Community](https://medium.com/wanchain-foundation/a-letter-to-our-community-8bba64ff1cc0) - Letter by Jack Lu 
 - [Wanchain Reddit AMA](https://www.reddit.com/r/wanchain/comments/8wnrj5/wanchain_reddit_ama_is_live/) - AMA by Wanchain team
@@ -123,7 +123,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Wanchain's Bridge To The Ethereum Blockchain Is Now Open](https://altcointoday.com/wanchains-bridge-to-the-ethereum-blockchain-is-now-open/) - Article by AltcoinToday(.com) for the release of version 2.0 
 - [Wanchain's Mainnet Is Live Video](https://www.youtube.com/watch?v=sxQe0NiZvB0) - Short video by Wanchain
 
-### Partnerships | Collaborations
+### Partnerships And Collaborations
 
 - [MakerDAO’s Dai on Wanchain Becomes First Ever Cross-Chain ERC20 — Beta Testnet Now Open](https://medium.com/wanchain-foundation/https-medium-com-wanchain-foundation-makerdao-dai-on-wanchain-727b0b95df19) - Article by Johann Eid
 - [Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
@@ -131,7 +131,7 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Wanchain Teams Up With Various Austin Companies to Form Regional Blockchain Innovation Hub](https://www.crowdfundinsider.com/2018/02/128591-wanchain-teams-various-austin-companies-form-regional-blockchain-innovation-hub/) - Article by Samantha Hurst
 
 
-### Interviews | Conferences 
+### Interviews And Conferences 
 
 - [Jack Lu's Interview On Wanchain](https://www.youtube.com/watch?v=-GQtPvL2qqM) - Interview by Eugene Tay
 - [Jack Lu's Speech On Wanchain And Its Ecosystem](https://www.youtube.com/watch?v=OeOp0BkZP9U&t=1s) - Speech at Beyond Blocks
