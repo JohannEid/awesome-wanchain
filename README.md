@@ -52,6 +52,7 @@ Below is a collection of resources for anyone interested in learning more about 
    - [Frameworks](#frameworks)
    - [IDEs](#ides)
    - [Github Repos](#github-repos)
+   
 
 **Official Links**
 --
@@ -252,3 +253,16 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 - [Wanx](https://github.com/wanchain/wanx) - Utility for making cross chain transactions on the wanchain network.  
 - [go-wanchain](https://github.com/wanchain/go-wanchain) - Official go implementation of the Wanchain client
 - [Wanchain ICO verification tool](https://github.com/wanchain/wanchain-ico-verification) - Wanchian ICO verification tool
+
+# Interoperability In General 
+
+### Media 
+
+[Comparison of Inter-Blockchain Communication Technologies](http://troubles.md/posts/comparison-of-inter-blockchain-communication-technologies/) - Article sponsored by Parity
+[Blockchains Are Verticalizing, So We Need Interoperability](https://www.forbes.com/sites/adrianbridgwater/2018/02/07/blockchains-are-verticalizing-so-we-need-interoperability/#d98e6017ab95) - Article published by Forbes (.com)
+[Looking Ahead To Blockchain Interoperability : Issues And Future Solutions](https://blockonomi.com/blockchain-interoperability/) - Article published by Blockonomi (.com)
+[The Opportunity For Interoperable Chains Of Chains
+(https://multicoin.capital/2018/01/27/opportunity-interoperable-chains-chains/) - Article published by Multicoin capital (.com) 
+
+
+### Other Projects 
