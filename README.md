@@ -1,6 +1,6 @@
-# Goal
+# About
 
-This document intends to be the hub to find useful information about Wanchain. The resources listed here can be both technical or high level. Please feel free to make pull requests wherever you feel important information is missing.
+Awesome-wanchain to be the hub to find useful information about the Wanchain network. The resources listed here can be both technical or high level. Please feel free to make pull requests wherever you feel important information is missing.
 
 # Overview Of Wanchain
 
