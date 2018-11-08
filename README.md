@@ -258,10 +258,10 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 
 ### Media 
 
-[Comparison of Inter-Blockchain Communication Technologies](http://troubles.md/posts/comparison-of-inter-blockchain-communication-technologies/) - Article sponsored by Parity
-[Blockchains Are Verticalizing, So We Need Interoperability](https://www.forbes.com/sites/adrianbridgwater/2018/02/07/blockchains-are-verticalizing-so-we-need-interoperability/#d98e6017ab95) - Article published by Forbes (.com)
-[Looking Ahead To Blockchain Interoperability : Issues And Future Solutions](https://blockonomi.com/blockchain-interoperability/) - Article published by Blockonomi (.com)
-[The Opportunity For Interoperable Chains Of Chains
+- [Comparison of Inter-Blockchain Communication Technologies](http://troubles.md/posts/comparison-of-inter-blockchain-communication-technologies/) - Article sponsored by Parity
+- [Blockchains Are Verticalizing, So We Need Interoperability](https://www.forbes.com/sites/adrianbridgwater/2018/02/07/blockchains-are-verticalizing-so-we-need-interoperability/#d98e6017ab95) - Article published by Forbes (.com)
+- [Looking Ahead To Blockchain Interoperability : Issues And Future Solutions](https://blockonomi.com/blockchain-interoperability/) - Article published by Blockonomi (.com)
+- [The Opportunity For Interoperable Chains Of Chains
 (https://multicoin.capital/2018/01/27/opportunity-interoperable-chains-chains/) - Article published by Multicoin capital (.com) 
 
 
