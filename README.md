@@ -262,7 +262,20 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 - [Blockchains Are Verticalizing, So We Need Interoperability](https://www.forbes.com/sites/adrianbridgwater/2018/02/07/blockchains-are-verticalizing-so-we-need-interoperability/#d98e6017ab95) - Article published by Forbes (.com)
 - [Looking Ahead To Blockchain Interoperability : Issues And Future Solutions](https://blockonomi.com/blockchain-interoperability/) - Article published by Blockonomi (.com)
 - [The Opportunity For Interoperable Chains Of Chains
-(https://multicoin.capital/2018/01/27/opportunity-interoperable-chains-chains/) - Article published by Multicoin capital (.com) 
+(https://multicoin.capital/2018/01/27/opportunity-interoperable-chains-chains/) - Article published by Multicoin capital (.com)
+- [Cross-chain infrastructure]
+(https://blog.havven.io/cross-chain-infrastructure-eebe7ad7d7a2) - Blog by Havven 
 
 
 ### Other Projects 
+
+- [Blocknet](https://www.blocknet.co/)
+- [Cosmos](https://cosmos.network/)
+- [Polkadot](https://polkadot.network/)
+- [Aion](https://aion.network/)
+- [Lamden](https://lamden.io/)
+- [Icon](https://icon.foundation/)
+- [ARK](https://ark.io/)
+- [Quant Network](https://www.quant.network/)
+- [ARK](https://ark.io/)
+- [Block Collider](https://www.blockcollider.org/)
