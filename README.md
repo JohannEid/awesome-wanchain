@@ -254,7 +254,7 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 - [go-wanchain](https://github.com/wanchain/go-wanchain) - Official go implementation of the Wanchain client
 - [Wanchain ICO verification tool](https://github.com/wanchain/wanchain-ico-verification) - Wanchian ICO verification tool
 
-# Interoperability In General 
+# Interoperability Overview 
 
 ### Media 
 
