@@ -253,8 +253,9 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 - [Wanx](https://github.com/wanchain/wanx) - Utility for making cross chain transactions on the wanchain network.  
 - [go-wanchain](https://github.com/wanchain/go-wanchain) - Official go implementation of the Wanchain client
 - [Wanchain ICO verification tool](https://github.com/wanchain/wanchain-ico-verification) - Wanchian ICO verification tool
-- [wanchain storeman](https://github.com/wanchain/wanchain-js-storeman) - Storemen code
-- [wanchain crosschain contracts](https://github.com/wanchain/wanchain-crosschain-contracts) - Wanchain crosschain contracts
+- [wanchain storeman](https://github.com/wanchain/wanchain-js-storeman) - Storemen code 
+- [wanchain crosschain contracts](https://github.com/wanchain/wanchain-crosschain-contracts) - Wanchain crosschain contracts 
+- [wanchain name service](https://github.com/wanchain/wns) - Wanchain Name service 
 
 # Interoperability Overview 
 
