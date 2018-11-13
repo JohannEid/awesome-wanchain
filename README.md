@@ -143,17 +143,14 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 - [Jack Lu's Interview On Wanchain](https://www.youtube.com/watch?v=-GQtPvL2qqM) - Interview by Eugene Tay
 - [Jack Lu's Speech On Wanchain And Its Ecosystem](https://www.youtube.com/watch?v=OeOp0BkZP9U&t=1s) - Speech at Beyond Blocks
 - [Interview With Jack Lu, Founder And CEO At Wanchain](https://medium.com/@liluzivertcoin/interview-with-jack-lu-founder-and-ceo-wanchain-1a994e43ef1a) - Interview by Uzi
+- [Texas Bitcoin Conference](https://www.youtube.com/watch?v=CxL8Saqx5qA&t=1938s) - Jack Lu presenting at Texas Bitcoin conference
 - [Austin Blockchain Collective - Town Hall]
 (https://www.youtube.com/watch?v=T2vy7kgTENc&feature=youtu.be&t=3453) - Wanchain team presenting at Austin Blockchain conference
 - [Oliver Birch Interview](https://www.youtube.com/watch?v=ca0uHqiZmsM&feature=youtu.be) - Interview by CryptoDealers
 - [Scott Trowbridge and Oliver Birch Interview](https://www.youtube.com/watch?v=7PUauCKQP1c&t=1s) - Interview by Crypto Bulk
-- [Dustin Byington - World Blockchain Dubai](https://www.youtube.com/watch?v=ElFBf_tkPwc)
-- [Dustin Byington Interview - Privacy Comes To Asia](https://www.youtube.com/watch?v=YnKowYlofo8) - Interview by the Crypto Lark
-- [Dustin Byington - Overview Of Wanchain](https://www.youtube.com/watch?v=ObxJje6aSwI) - Interview by Blockchain Brad
 - [Interviw With Oliver Birch And Dan Reecer About Marketing And Community](https://www.youtube.com/watch?v=HOuEqQ9HqTE) - Interview by Unifi
 - [Johann Eid's Presentation Of Wanchain](https://www.youtube.com/watch?v=OuCxORB2Uqg) - Conference at StartupToken
 - [Oliver Birch And Johann Eid Talk About Wanchain](https://www.youtube.com/watch?v=cNhKLb5BCOw&t=604s) - Wanchain's meetup in France
-- [Dustin Byington and Jack Lu-Wanchain-The North American Bitcoin Conference](https://www.youtube.com/watch?v=C6qeBt37750) - Conference by Jack Lu and Dustin Byington
 - [Wanchain Introduction For 2.0](https://www.youtube.com/watch?v=pDZk5_O32Yw) - Conference at Wuhzen World Blockchain Conference
 
 ### Articles And Video About Us :heart:
