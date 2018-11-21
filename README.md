@@ -28,14 +28,16 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Media](#media)
    - [Beginner Guides](#beginner-guides)
    - [Tutorials](#tutorials)
-   - [Technology Analysis](#technology-analysis)
-      - [Dive into Secure Multi Party Computation](#dive-into-secure-multi-party-computation)
-      - [Dive into Sharmir's Secret Sharing Scheme](#dive-into-sharmir's-secret-sharing-scheme)
    - [AMAs And Messages To Community](#amas-and-messages-to-community)
    - [Important Milestones](#technology-analysis)
    - [Partnerships And Collaborations](#partnerships-and-collaborations)  
    - [Interviews And Conferences](#interviews-and-conferences)  
-   - [Articles And Videos](#articles-and-videos )  
+   - [Articles And Videos](#articles-and-videos)
+- [Technical Overview](#technical-overview)
+   - [Technology Analysis](#technology-analysis)
+      - [Dive into Secure Multi Party Computation](#dive-into-secure-multi-party-computation)
+      - [Dive into Sharmir's Secret Sharing Scheme](#dive-into-sharmir's-secret-sharing-scheme)
+   - [Differences with Other Interoperability Platforms](#differences-with-other-interoperability-platforms)
 - [Get Wancoins](#get-wancoins)
 - [Tools](#tools)
    - [Store your Wancoins](#store-your-wancoins)
@@ -96,23 +98,6 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Ledger Wallet For Wan](https://wanchain.org/files/Wanchain_Ledger_Wallet_Overview.pdf) - Instruction manual to setup Wan on Ledger wallet
 - [Wanwallet 2.0 Cross chain transactions](https://github.com/wanchain/go-wanchain/wiki/Wanwallet-2.0-Cross-chain-transactions) - Instruction to initiate cross chain transaction using our Wanwallet 
 
-### Technology Analysis 
-
-The 2 core technologies that allow Wanchain's cross chain functionalities to securely work are SMPC(Secure Multi Party Computing) and SSSS (Shamir's Secet Sharing Scheme) 
-
-- [Introduction to Shamir's Secret Sharing and Secure Multi Party Computing](https://medium.com/wanchain-foundation/secure-multiparty-computation-and-shamirs-secret-sharing-on-wanchain-e502012b80ef) - Article by Oliver Birch that goes in depth into the 2 core components of Wanchain's technology
-
-#### Dive into Secure Multi Party Computation
-
-- [Tutorial on Secure Multi Party Computation](https://www.iitk.ac.in/eeold/archive/courses/2013/intel-info/d4pdf1.pdf) - Presentation by Somitra Sanadhya
-- [Protecting Privacy with Secure Multi Party Computation](https://www.newamerica.org/oti/blog/protecting-privacy-secure-multi-party-computation/) - Blog post by Christopher Sadler
-- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - A collection of resources to learn more about MPC compiled by rdragos
-
-#### Dive into Sharmir's Secret Sharing Scheme
-
-- [What is Shamir's Secret Sharing Scheme?](http://point-at-infinity.org/ssss/) - Article published on point-at-infinity(.org)
-- [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
-- [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
 
 ### AMAs And Messages To Community 
 
@@ -157,6 +142,29 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 
 - [Cryptocurrencies With Working Products](https://www.investinblockchain.com/top-cryptocurrencies-working-products/) - Article by Invest In Blockchain (.com). Wanchain mentioned as one of the few cryptos with a working product
 - [Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
+
+---
+# Technical Overview
+
+The 2 core technologies that allow Wanchain's cross chain functionalities to securely work are SMPC(Secure Multi Party Computing) and SSSS (Shamir's Secet Sharing Scheme) 
+
+### Technology Analysis
+
+- [Introduction to Shamir's Secret Sharing and Secure Multi Party Computing](https://medium.com/wanchain-foundation/secure-multiparty-computation-and-shamirs-secret-sharing-on-wanchain-e502012b80ef) - Article by Oliver Birch that goes in depth into the 2 core components of Wanchain's technology
+
+#### Dive into Secure Multi Party Computation
+
+- [Tutorial on Secure Multi Party Computation](https://www.iitk.ac.in/eeold/archive/courses/2013/intel-info/d4pdf1.pdf) - Presentation by Somitra Sanadhya
+- [Protecting Privacy with Secure Multi Party Computation](https://www.newamerica.org/oti/blog/protecting-privacy-secure-multi-party-computation/) - Blog post by Christopher Sadler
+- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - A collection of resources to learn more about MPC compiled by rdragos
+
+#### Dive into Sharmir's Secret Sharing Scheme
+
+- [What is Shamir's Secret Sharing Scheme?](http://point-at-infinity.org/ssss/) - Article published on point-at-infinity(.org)
+- [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
+- [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
+
+### Differences with Other Interoperability Platforms
 
 ---
 # Find Wancoins
