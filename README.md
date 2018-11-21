@@ -170,6 +170,10 @@ The 2 core technologies that allow Wanchain's cross chain functionalities to sec
 
 Icon uses Loop Fault Tolerance as its consensus algorithm. This ensures finallity without the possibility of network forks. Their main  goal is to integrate different communities (hospitals, universitiies ...) into the ICON Republic, where individuals from diverse organizations can interact and exchange with one and another. The biggest differentiation with Wanchain would be that we are focused on brining existing chains (Ethereum, Bitcoin ...) to gather most crypto assets on a single chain. 
 
+#### AION
+
+Aion's main goal is to build one-way bridges between blockchains. It intends to create a market for bridges where bridge providers will compete in order to provider faster and cheaper inter-chain transactions.
+
 ---
 # Find Wancoins
 
