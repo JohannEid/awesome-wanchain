@@ -267,7 +267,7 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 * [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
 
 #### Github Repos
-- [Wanx](https://github.com/wanchain/wanx) - Utility for making cross chain transactions on the wanchain network.  
+- [wanx](https://github.com/wanchain/wanx) - Utility for making cross chain transactions on the wanchain network.  
 - [go-wanchain](https://github.com/wanchain/go-wanchain) - Official go implementation of the Wanchain client
 - [Wanchain ICO verification tool](https://github.com/wanchain/wanchain-ico-verification) - Wanchian ICO verification tool
 - [wanchain storeman](https://github.com/wanchain/wanchain-js-storeman) - Storemen code 
