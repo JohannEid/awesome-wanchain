@@ -6,6 +6,21 @@ A collection of resources related to Wanchain
 Awesome-wanchain aims to be the hub to find useful information about the Wanchain network. 
 __This document is intended to serve our community and we hope you will be able to contribute to it ! If you find anything missing  please feel free to make a pull request.__
 
+---
+# Inspiration
+
+Bitcoin was launched in 2009 by an anonymous individual named Satoshi Nakamoto. In his whitepaper Satoshi outlined his vision for "A peer to peer electronic cash system". As time went by, Bitcoin started getting traction and was increasingly used in commerce. 
+
+Ethereum was launched in 2015 with the intent of creating a network for "programmable money" which could one day become the backbone of a new decentralized financial system.Time went by, and many new blockchains started to appear each one for a different use case  privacy, scalability, governance... 
+
+These protocols all had a different vision, roadmap and community. It became obvious that the future of this industry would depend on many heterogenous blockchains which would each have its own set of rules and governance processes. These blockchains would each be in their own bubble, siloed and closed to the outside.
+
+Much like the days of the intranet, when we had private networks which could not communicate between one and another. The question now arose, how do we go from  a network of intranets to the internet?
+__How do we transition from an  ecosystem of siloed blockchains to the internet of blockchains?__ 
+
+Wanchain is a project that aims to answer this question. __It  started in 2016 as an effort to build an infrastructure which could support the transfer of value between different blockchains.__
+
+
 # Overview Of Wanchain
 
 
