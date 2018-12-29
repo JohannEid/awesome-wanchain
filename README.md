@@ -40,6 +40,15 @@ We already proved that our approach to solving the cross-chain transfer of asset
 
 Below is a collection of resources for anyone interested in learning more about Wanchain or building on our platform.
 
+
+# Vision
+
+The rise of Bitcoin and Ethereum was the first step toward creating a new global financial system. Where people are able to transact, enter into agreements and financial settlements in a peer to peer manner without requiring a third party to instigate trust in the process. The current industry however, is far from being fully decentralized.
+
+Many assets are entrusted to centralized institutions such as exchanges. This stems from the fact that heterogenous chains cannot communicate with one and another, so whenever users needs to exchange between different assets they have to rely on exchanges to make the transaction.This current situation has become a threat for the cryptocurrency ecosystem as a monopoly has been formed by those exchanges. 
+
+Large sums of funds are trusted to these entities which could at any moment get hacked,  compromised by malevolent actors etc...Any monopoly can be dangerous for the future of an industry, for such a young space it could alter innovation and delay the coming of a global decentralized financial system.For this very reason, Wanchain believes the problem of interoperability needs to be solved in order for the cryptocurrency industry to achieve its true potential. Our vision is to build out a blockchain which allows for decentralized cross chain transfer of value between heterogenous chains. Wanchain would be the platform which to host financial dApps that need to access different kind of assets 
+
 ---
 ## Table of Contents
 - [Official Links](#official-links)
