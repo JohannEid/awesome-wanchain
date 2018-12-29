@@ -1,6 +1,10 @@
+# awesome-wanchain
+A collection of resources related to Wanchain
+
 # About
 
-Awesome-wanchain aims to be the hub to find useful information about the Wanchain network. The resources listed here can be both technical or high level. Please feel free to make pull requests wherever you feel important information is missing.
+Awesome-wanchain aims to be the hub to find useful information about the Wanchain network. 
+__This document is intended to serve our community and we hope you will be able to contribute to it ! If you find anything missing  please feel free to make a pull request.__
 
 # Overview Of Wanchain
 
@@ -15,9 +19,9 @@ The whole purpose of Blockchain technology was to create a decentralized world w
 
 Wanchain aims to become a hub, where financial applications will host services that provide access to assets such as BTC/ETH/ERC20s, with many more blockchain integrations planned for the near future.
 
-We integrated Ethereum in our 2.0 release, which means users can now transfer ETH to Wanchain. Bitcoin integration is currently on beta testnet as well as the DAI stable coin and MKR token. The release of 3.0 (Bitcoin and ERC20 integration) due by the end of 2018 will allow DEXs built on Wanchain to list ETH/BTC trading pairs for the **first time in the industry.**
+We integrated Ethereum in our 2.0 release, which means users can now transfer ETH to Wanchain. Bitcoin integration is currently on beta testnet as well as the DAI stable coin and MKR token. The release of 3.0 (Bitcoin and ERC20 integration) allows DEXs built on Wanchain to list ETH/BTC trading pairs for the **first time in the industry.**
 
-We already proved that our approach to solving the cross-chain transfer of assets works between 2 networks that use different hashing functions. We can lock assets on native chains and issue their worth in proxy tokens which can be redeemed for the underlying asset at any moment. The entire process is distributed and will be fully decentralized in 2019. 
+We already proved that our approach to solving the cross-chain transfer of assets works between 2 networks that use different hashing functions. We can lock assets on native chains and issue their worth in proxy tokens which can be redeemed for the underlying asset at any moment. The entire process is distributed and will be fully decentralized with the advent of POS in 2019. 
 
 Below is a collection of resources for anyone interested in learning more about Wanchain or building on our platform.
 
@@ -28,16 +32,14 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Media](#media)
    - [Beginner Guides](#beginner-guides)
    - [Tutorials](#tutorials)
+   - [Technology Analysis](#technology-analysis)
+      - [Dive into Secure Multi Party Computation](#dive-into-secure-multi-party-computation)
+      - [Differences between MPC and Multi-signature](#differences-between-mpc-and-multi-signature)
    - [AMAs And Messages To Community](#amas-and-messages-to-community)
    - [Important Milestones](#technology-analysis)
    - [Partnerships And Collaborations](#partnerships-and-collaborations)  
    - [Interviews And Conferences](#interviews-and-conferences)  
-   - [Articles And Videos](#articles-and-videos)
-- [Technical Overview](#technical-overview)
-   - [Technology Analysis](#technology-analysis)
-      - [Dive into Secure Multi Party Computation](#dive-into-secure-multi-party-computation)
-      - [Dive into Sharmir's Secret Sharing Scheme](#dive-into-sharmir's-secret-sharing-scheme)
-   - [Differences with Other Interoperability Platforms](#differences-with-other-interoperability-platforms)
+   - [Articles And Videos](#articles-and-videos )  
 - [Get Wancoins](#get-wancoins)
 - [Tools](#tools)
    - [Store your Wancoins](#store-your-wancoins)
@@ -85,7 +87,7 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Overview Of Wanchain](https://coincentral.com/wanchain-beginner-guide/) - Article by Stillman
 - [Wanchain Introduction Video](https://www.youtube.com/watch?v=caCXal3ZwfA&feature=youtu.be) - Video by Wanchain
 - [The Importance Of Blockchain Interoperability](https://medium.com/wanchain-foundation/the-importance-of-blockchain-interoperability-b6a0bbd06d11) - Article by Jack Lu
-- [Wanchain - A new way of connection Blockchains](https://medium.com/@interblockchains/wanchain-interoperability-420e5022c138) - Article by Oliver Birch
+- [Wanchain - A new way of connecting Blockchains](https://medium.com/@interblockchains/wanchain-interoperability-420e5022c138) - Article by Oliver Birch
 - [An Overview of the Wanchain Cross-Chain Implementation Model](https://medium.com/wanchain-foundation/an-overview-of-the-wanchain-2-0-cross-chain-implementation-model-c455cfd25664) - Article by Dan Reecer
 - [What is Wanchain?](https://coincentral.com/wanchain-beginner-guide/) - Article by CoinCentral(.com)
 - [Wanchain Architecture](https://www.reddit.com/r/wanchain/comments/7qyixh/still_skeptical_would_anyone_who_understands_the/dstb7lk) - Reddit post by u/phoeniciaStrategy
@@ -98,26 +100,55 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Ledger Wallet For Wan](https://wanchain.org/files/Wanchain_Ledger_Wallet_Overview.pdf) - Instruction manual to setup Wan on Ledger wallet
 - [Wanwallet 2.0 Cross chain transactions](https://github.com/wanchain/go-wanchain/wiki/Wanwallet-2.0-Cross-chain-transactions) - Instruction to initiate cross chain transaction using our Wanwallet 
 
+### Technology Analysis 
+
+The 2 core technologies that allow Wanchain's cross chain functionalities to securely work are SMPC(Secure Multi Party Computing) and SSSS (Shamir's Secet Sharing Scheme) 
+
+- [Introduction to Shamir's Secret Sharing and Secure Multi Party Computing](https://medium.com/wanchain-foundation/secure-multiparty-computation-and-shamirs-secret-sharing-on-wanchain-e502012b80ef) - Article by Oliver Birch that goes in depth into the 2 core components of Wanchain's technology
+
+#### Dive into Secure Multi Party Computation
+
+- [Tutorial on Secure Multi Party Computation](https://www.iitk.ac.in/eeold/archive/courses/2013/intel-info/d4pdf1.pdf) - Presentation by Somitra Sanadhya
+- [Protecting Privacy with Secure Multi Party Computation](https://www.newamerica.org/oti/blog/protecting-privacy-secure-multi-party-computation/) - Blog post by Christopher Sadler
+- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - A collection of resources to learn more about MPC compiled by rdragos
+- [What is Shamir's Secret Sharing Scheme?](http://point-at-infinity.org/ssss/) - Article published on point-at-infinity(.org)
+- [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
+- [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
+
+### Differences between MPC and Multi-signature
+
+Multi-signature and MPC are both used for managing account with multiple parties. MPC has several benefits over mutli-signature
+
+1. __More generic.__ Muti-signature is always done through smart contract or spv script. This limits its range of application as the underlying infrastructure has to have some kind of scripting support. Wanchain’s MPC method can adjust almost to any blockchain architectures no matter whether they support smart contract or not.
+
+2. __Less storage cost.__ Suppose there are N parties controlling an account. To send a transaction from this account, about N signatures need to be attached to the transaction when using multi-signature. But using Wanchian’s MPC method, only one signature is required in the transaction, the same as a normal transaction. MPC is a process of cryptographic signature aggregation. With Wanchain’s MPC method, participants locally generate signature shares and then compute their aggregation. Only the final signature is attached in the transaction.
+
+3. __Lower transaction fee.__ Muti-signature has a larger storage cost, also the verification process needs more computation compared to Wanchian’s MPC. So Wanchain’s MPC naturally incurs lower transaction fee.
+
+__In summary, MPC is more general and has less storage cost and lower transaction fee. So Wanchain chose it for its cross-chain design.__
 
 ### AMAs And Messages To Community 
 
+- [Optimizing Wanchain — Transition from Startup Advisory to Ecosystem Growth and Mass Adoption](https://medium.com/wanchain-foundation/optimizing-wanchain-transition-from-startup-advisory-to-ecosystem-growth-and-mass-adoption-21166a75d820) - Article by Oliver Birch
 - [A Letter To The Wanchain Community](https://medium.com/wanchain-foundation/a-letter-to-our-community-8bba64ff1cc0) - Letter by Jack Lu 
 - [Wanchain Reddit AMA](https://www.reddit.com/r/wanchain/comments/8wnrj5/wanchain_reddit_ama_is_live/) - AMA by Wanchain team
 - [CryptoCurve And Wanchain AMA](https://www.reddit.com/r/wanchain/comments/9qpug9/crypto_curve_and_wanchain_ama/) - AMA by Wanchain and Cryptocurve teams
 - [This Is Wanchain Ask Us Anything](https://www.reddit.com/r/wanchain/comments/7qkh8m/this_is_wanchain_ask_us_anything/) - AMA by the Wanchain team
 - [Meet The Wanchain Team](https://www.youtube.com/watch?v=Itsbuh1HtJY) - Video by Wanchain
+- [The Path Toward a Decentralized Financial System](https://medium.com/wanchain-foundation/the-path-towards-a-decentralized-financial-system-250e763dc00d) - Article by Johann Eid
 
 ### Important Milestones 
 
+- [Wanchain 3.0 Launches Bitcoin Bridge to Ethereum — Continues Rapid Progression in Blockchain Interoperability Mission](https://medium.com/wanchain-foundation/wanchain-3-0-launch-bitcoin-ethereum-erc20-7cd504f25c0c) - Article by Dan Reecer
 - [Wanchain 3.0 Alpha Testnet Is Live](https://medium.com/wanchain-foundation/wanchain-3-0-bridging-bitcoin-ethereum-alpha-testnet-is-live-4fe89a6c1f05) - Article by Jack Lu
 - [Wanchain's Bridge To The Ethereum Blockchain Is Now Open](https://altcointoday.com/wanchains-bridge-to-the-ethereum-blockchain-is-now-open/) - Article by AltcoinToday(.com) for the release of version 2.0 
 - [Wanchain's Mainnet Is Live Video](https://www.youtube.com/watch?v=sxQe0NiZvB0) - Short video by Wanchain
 
 ### Partnerships And Collaborations
 
-- [MakerDAO’s Dai on Wanchain Becomes First Ever Cross-Chain ERC20 — Beta Testnet Now Open](https://medium.com/wanchain-foundation/https-medium-com-wanchain-foundation-makerdao-dai-on-wanchain-727b0b95df19) - Article by Johann Eid
-- [Wanchain Adds Real-World Data with Chainlink Integration and Partnership]
-(https://medium.com/wanchain-foundation/wanchain-adds-real-world-data-in-partnership-with-chainlink-a7ecf919e181) - Article by Dan Reecer 
+- [Wanchain and Chain Accelerator Establish Collaboration in France](https://medium.com/wanchain-foundation/wanchain-and-chain-accelerator-establish-collaboration-in-france-fdd96149276a) - Article by Johann Eid
+- [MakerDAO’s Dai Stablecoin and MKR are Live on Wanchain, Bringing Interoperability with Bitcoin](https://medium.com/wanchain-foundation/makerdaos-dai-stablecoin-and-mkr-are-live-on-wanchain-bringing-interoperability-with-bitcoin-98d7d808d996) - Article by Johann Eid
+- [Wanchain Adds Real-World Data with Chainlink Integration and Partnership](https://medium.com/wanchain-foundation/wanchain-adds-real-world-data-in-partnership-with-chainlink-a7ecf919e181) - Article by Dan Reecer 
 - [Wanchain Joins The Ethereum Entreprise Alliance](https://medium.com/wanchain-foundation/wanchain-joins-the-enterprise-ethereum-alliance-6822dfb659d2) - Article by Michael Picone 
 - [0xcert and Wanchain enter Stretegic Alliance](https://0xcert.org/news/0xcert-and-wanchain-strategic-alliance/) - Article by 0xcert
 - [Wanchain Teams Up With Various Austin Companies to Form Regional Blockchain Innovation Hub](https://www.crowdfundinsider.com/2018/02/128591-wanchain-teams-various-austin-companies-form-regional-blockchain-innovation-hub/) - Article by Samantha Hurst
@@ -129,8 +160,7 @@ Below is a collection of resources for anyone interested in learning more about 
 - [Jack Lu's Speech On Wanchain And Its Ecosystem](https://www.youtube.com/watch?v=OeOp0BkZP9U&t=1s) - Speech at Beyond Blocks
 - [Interview With Jack Lu, Founder And CEO At Wanchain](https://medium.com/@liluzivertcoin/interview-with-jack-lu-founder-and-ceo-wanchain-1a994e43ef1a) - Interview by Uzi
 - [Texas Bitcoin Conference](https://www.youtube.com/watch?v=CxL8Saqx5qA&t=1938s) - Jack Lu presenting at Texas Bitcoin conference
-- [Austin Blockchain Collective - Town Hall]
-(https://www.youtube.com/watch?v=T2vy7kgTENc&feature=youtu.be&t=3453) - Wanchain team presenting at Austin Blockchain conference
+- [Austin Blockchain Collective - Town Hall](https://www.youtube.com/watch?v=T2vy7kgTENc&feature=youtu.be&t=3453) - Wanchain team presenting at Austin Blockchain conference
 - [Oliver Birch Interview](https://www.youtube.com/watch?v=ca0uHqiZmsM&feature=youtu.be) - Interview by CryptoDealers
 - [Scott Trowbridge and Oliver Birch Interview](https://www.youtube.com/watch?v=7PUauCKQP1c&t=1s) - Interview by Crypto Bulk
 - [Interviw With Oliver Birch And Dan Reecer About Marketing And Community](https://www.youtube.com/watch?v=HOuEqQ9HqTE) - Interview by Unifi
@@ -142,37 +172,6 @@ Below is a collection of resources for anyone interested in learning more about 
 
 - [Cryptocurrencies With Working Products](https://www.investinblockchain.com/top-cryptocurrencies-working-products/) - Article by Invest In Blockchain (.com). Wanchain mentioned as one of the few cryptos with a working product
 - [Wanchain Review](https://www.youtube.com/watch?v=QB2_5EFRjGw) - Video by the Crypto Lark
-
----
-# Technical Overview
-
-The 2 core technologies that allow Wanchain's cross chain functionalities to securely work are SMPC(Secure Multi Party Computing) and SSSS (Shamir's Secet Sharing Scheme) 
-
-### Technology Analysis
-
-- [Introduction to Shamir's Secret Sharing and Secure Multi Party Computing](https://medium.com/wanchain-foundation/secure-multiparty-computation-and-shamirs-secret-sharing-on-wanchain-e502012b80ef) - Article by Oliver Birch that goes in depth into the 2 core components of Wanchain's technology
-
-#### Dive into Secure Multi Party Computation
-
-- [Tutorial on Secure Multi Party Computation](https://www.iitk.ac.in/eeold/archive/courses/2013/intel-info/d4pdf1.pdf) - Presentation by Somitra Sanadhya
-- [Protecting Privacy with Secure Multi Party Computation](https://www.newamerica.org/oti/blog/protecting-privacy-secure-multi-party-computation/) - Blog post by Christopher Sadler
-- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - A collection of resources to learn more about MPC compiled by rdragos
-
-#### Dive into Sharmir's Secret Sharing Scheme
-
-- [What is Shamir's Secret Sharing Scheme?](http://point-at-infinity.org/ssss/) - Article published on point-at-infinity(.org)
-- [Splitting your secrets with Shamir's Secret Sharing Scheme](https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/) - Technical Blog by Michal Witas on Future Processing
-- [Example implementation of Shamir's Secret Sharing in Java](https://github.com/timtiemens/secretshare) - Github Repo by timtiemens
-
-### Differences with Other Interoperability Platforms
-
-#### ICON 
-
-Icon uses Loop Fault Tolerance as its consensus algorithm. This ensures finallity without the possibility of network forks. Their main  goal is to integrate different communities (hospitals, universitiies ...) into the ICON Republic, where individuals from diverse organizations can interact and exchange with one and another. The biggest differentiation with Wanchain would be that we are focused on brining existing chains (Ethereum, Bitcoin ...) to gather most crypto assets on a single chain. 
-
-#### AION
-
-Aion's main goal is to build one-way bridges between blockchains. It intends to create a market for bridges where bridge providers will compete in order to provider faster and cheaper inter-chain transactions.
 
 ---
 # Find Wancoins
@@ -267,7 +266,7 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 * [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
 
 #### Github Repos
-- [wanx](https://github.com/wanchain/wanx) - Utility for making cross chain transactions on the wanchain network.  
+- [Wanx](https://github.com/wanchain/wanx) - Utility for making cross chain transactions on the wanchain network.  
 - [go-wanchain](https://github.com/wanchain/go-wanchain) - Official go implementation of the Wanchain client
 - [Wanchain ICO verification tool](https://github.com/wanchain/wanchain-ico-verification) - Wanchian ICO verification tool
 - [wanchain storeman](https://github.com/wanchain/wanchain-js-storeman) - Storemen code 
@@ -297,3 +296,4 @@ Wanchain leverages the EVM. As such, any tools that Ethereum are familiar with c
 - [Quant Network](https://www.quant.network/)
 - [ARK](https://ark.io/)
 - [Block Collider](https://www.blockcollider.org/)
+
